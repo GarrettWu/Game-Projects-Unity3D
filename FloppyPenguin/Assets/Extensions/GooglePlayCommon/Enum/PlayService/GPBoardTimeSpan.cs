@@ -1,0 +1,16 @@
+////////////////////////////////////////////////////////////////////////////////
+//  
+// @module Common Native Plugin 
+// @author Osipov Stanislav lacost.st@gmail.com
+//
+////////////////////////////////////////////////////////////////////////////////
+
+using UnityEngine;
+using System.Collections;
+
+public enum GPBoardTimeSpan  {
+
+	TIME_SPAN_DAILY,
+	TIME_SPAN_WEEKLY,
+	TIME_SPAN_ALL_TIME
+}

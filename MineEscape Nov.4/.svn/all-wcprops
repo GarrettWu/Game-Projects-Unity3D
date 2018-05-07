@@ -1,0 +1,45 @@
+K 26
+svn:wc:ra_dav:activity-url
+V 25
+/svn/mineescape/!svn/act/
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/mineescape/!svn/ver/15/trunk
+END
+Assembly-CSharp-Editor.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/mineescape/!svn/ver/6/trunk/Assembly-CSharp-Editor.csproj
+END
+Assembly-CSharp-vs.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/mineescape/!svn/ver/6/trunk/Assembly-CSharp-vs.csproj
+END
+Assembly-CSharp-Editor-vs.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/mineescape/!svn/ver/6/trunk/Assembly-CSharp-Editor-vs.csproj
+END
+Assembly-CSharp.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/mineescape/!svn/ver/6/trunk/Assembly-CSharp.csproj
+END
+trunk-csharp.sln
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/mineescape/!svn/ver/6/trunk/trunk-csharp.sln
+END
+trunk.sln
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/mineescape/!svn/ver/6/trunk/trunk.sln
+END

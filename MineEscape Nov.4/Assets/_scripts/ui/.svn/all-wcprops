@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/mineescape/!svn/ver/8/trunk/Assets/_scripts/ui
+END
+GameSceneItemProgress.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/mineescape/!svn/ver/8/trunk/Assets/_scripts/ui/GameSceneItemProgress.cs
+END
+GameSceneResume.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/mineescape/!svn/ver/8/trunk/Assets/_scripts/ui/GameSceneResume.cs.meta
+END
+GameSceneCoin.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/mineescape/!svn/ver/8/trunk/Assets/_scripts/ui/GameSceneCoin.cs
+END
+GameSceneItemProgress.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mineescape/!svn/ver/8/trunk/Assets/_scripts/ui/GameSceneItemProgress.cs.meta
+END
+GameSceneScore.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/mineescape/!svn/ver/8/trunk/Assets/_scripts/ui/GameSceneScore.cs
+END
+GameSceneCoin.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/mineescape/!svn/ver/8/trunk/Assets/_scripts/ui/GameSceneCoin.cs.meta
+END
+GameScenePause.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/mineescape/!svn/ver/8/trunk/Assets/_scripts/ui/GameScenePause.cs
+END
+GameSceneResume.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/mineescape/!svn/ver/8/trunk/Assets/_scripts/ui/GameSceneResume.cs
+END
+GameSceneScore.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/mineescape/!svn/ver/8/trunk/Assets/_scripts/ui/GameSceneScore.cs.meta
+END
+GameScenePause.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/mineescape/!svn/ver/8/trunk/Assets/_scripts/ui/GameScenePause.cs.meta
+END

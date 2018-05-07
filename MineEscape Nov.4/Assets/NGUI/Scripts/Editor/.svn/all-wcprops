@@ -1,0 +1,689 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor
+END
+TweenColorEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/TweenColorEditor.cs.meta
+END
+UIAtlasInspector.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UIAtlasInspector.cs.meta
+END
+UIDrawCallInspector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UIDrawCallInspector.cs
+END
+UITweenerEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UITweenerEditor.cs
+END
+UIButtonColorEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UIButtonColorEditor.cs
+END
+UIPanelTool.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UIPanelTool.cs.meta
+END
+TweenVolumeEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/TweenVolumeEditor.cs
+END
+UIStretchEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UIStretchEditor.cs
+END
+TweenHeightEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/TweenHeightEditor.cs
+END
+TweenOrthoSizeEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/TweenOrthoSizeEditor.cs.meta
+END
+TweenScaleEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/TweenScaleEditor.cs.meta
+END
+TweenFOVEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/TweenFOVEditor.cs.meta
+END
+UIInputEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UIInputEditor.cs.meta
+END
+NGUIEditorTools.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/NGUIEditorTools.cs
+END
+UIPanelTool.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UIPanelTool.cs
+END
+UIToggleInspector.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UIToggleInspector.cs.meta
+END
+NGUIJson.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/NGUIJson.cs
+END
+BMFontReader.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/BMFontReader.cs.meta
+END
+UIAnchorEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UIAnchorEditor.cs.meta
+END
+UILabelInspector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UILabelInspector.cs
+END
+NGUISettings.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/NGUISettings.cs.meta
+END
+UIWidgetInspector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UIWidgetInspector.cs
+END
+TweenRotationEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/TweenRotationEditor.cs
+END
+UIPlayAnimationEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UIPlayAnimationEditor.cs
+END
+UICreateWidgetWizard.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UICreateWidgetWizard.cs.meta
+END
+NGUIMenu.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/NGUIMenu.cs.meta
+END
+UIPlayTweenEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UIPlayTweenEditor.cs
+END
+TweenWidthEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/TweenWidthEditor.cs.meta
+END
+UIAnchorEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UIAnchorEditor.cs
+END
+UIGridEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UIGridEditor.cs.meta
+END
+NGUIJson.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/NGUIJson.cs.meta
+END
+UICameraEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UICameraEditor.cs.meta
+END
+UIAtlasMaker.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UIAtlasMaker.cs
+END
+ActiveAnimationEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/ActiveAnimationEditor.cs
+END
+NGUISettings.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/NGUISettings.cs
+END
+TweenAlphaEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/TweenAlphaEditor.cs.meta
+END
+UIFontMaker.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UIFontMaker.cs
+END
+UIPanelInspector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UIPanelInspector.cs
+END
+NGUITransformInspector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/NGUITransformInspector.cs
+END
+NGUIMenu.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/NGUIMenu.cs
+END
+NGUISelectionTools.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/NGUISelectionTools.cs
+END
+UILabelInspector.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UILabelInspector.cs.meta
+END
+UISliderInspector.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UISliderInspector.cs.meta
+END
+UIDraggablePanelEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UIDraggablePanelEditor.cs
+END
+UIWidgetInspector.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UIWidgetInspector.cs.meta
+END
+TweenAlphaEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/TweenAlphaEditor.cs
+END
+TweenPositionEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/TweenPositionEditor.cs.meta
+END
+TweenVolumeEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/TweenVolumeEditor.cs.meta
+END
+UIStretchEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UIStretchEditor.cs.meta
+END
+UIToggleInspector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UIToggleInspector.cs
+END
+UISliderInspector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UISliderInspector.cs
+END
+UIFontMaker.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UIFontMaker.cs.meta
+END
+UIPanelInspector.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UIPanelInspector.cs.meta
+END
+UICreateNewUIWizard.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UICreateNewUIWizard.cs.meta
+END
+UIFontInspector.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UIFontInspector.cs.meta
+END
+UISpriteAnimationInspector.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UISpriteAnimationInspector.cs.meta
+END
+UISpriteInspector.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UISpriteInspector.cs.meta
+END
+UIWidgetContainerEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UIWidgetContainerEditor.cs.meta
+END
+UICameraTool.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UICameraTool.cs
+END
+UIPopupListInspector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UIPopupListInspector.cs
+END
+TweenTransformEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/TweenTransformEditor.cs
+END
+UITextureInspector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UITextureInspector.cs
+END
+UICreateWidgetWizard.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UICreateWidgetWizard.cs
+END
+ComponentSelector.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/ComponentSelector.cs.meta
+END
+UIRootEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UIRootEditor.cs
+END
+UIAtlasInspector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UIAtlasInspector.cs
+END
+UIGridEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UIGridEditor.cs
+END
+UIFontInspector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UIFontInspector.cs
+END
+UISpriteAnimationInspector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UISpriteAnimationInspector.cs
+END
+UISpriteInspector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UISpriteInspector.cs
+END
+UIWidgetContainerEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UIWidgetContainerEditor.cs
+END
+SpriteSelector.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/SpriteSelector.cs.meta
+END
+UITableEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UITableEditor.cs
+END
+TweenRotationEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/TweenRotationEditor.cs.meta
+END
+TweenScaleEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/TweenScaleEditor.cs
+END
+UIPlayTweenEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UIPlayTweenEditor.cs.meta
+END
+ComponentSelector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/ComponentSelector.cs
+END
+UIDrawCallInspector.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UIDrawCallInspector.cs.meta
+END
+UITweenerEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UITweenerEditor.cs.meta
+END
+SpriteSelector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/SpriteSelector.cs
+END
+TweenHeightEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/TweenHeightEditor.cs.meta
+END
+EventDelegateEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/EventDelegateEditor.cs.meta
+END
+UIScrollBarInspector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UIScrollBarInspector.cs
+END
+UICameraTool.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UICameraTool.cs.meta
+END
+UIPopupListInspector.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UIPopupListInspector.cs.meta
+END
+NGUITransformInspector.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/NGUITransformInspector.cs.meta
+END
+UIRootEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UIRootEditor.cs.meta
+END
+TweenPositionEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/TweenPositionEditor.cs
+END
+NGUISelectionTools.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/NGUISelectionTools.cs.meta
+END
+NGUIEditorTools.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/NGUIEditorTools.cs.meta
+END
+UIButtonEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UIButtonEditor.cs
+END
+UITableEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UITableEditor.cs.meta
+END
+UIDraggablePanelEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UIDraggablePanelEditor.cs.meta
+END
+EventDelegateEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/EventDelegateEditor.cs
+END
+UITexturePacker.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UITexturePacker.cs
+END
+TweenColorEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/TweenColorEditor.cs
+END
+UIImageButtonInspector.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UIImageButtonInspector.cs.meta
+END
+TweenWidthEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/TweenWidthEditor.cs
+END
+UICreateNewUIWizard.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UICreateNewUIWizard.cs
+END
+UICameraEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UICameraEditor.cs
+END
+UIScrollBarInspector.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UIScrollBarInspector.cs.meta
+END
+UIPlayAnimationEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UIPlayAnimationEditor.cs.meta
+END
+TweenOrthoSizeEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/TweenOrthoSizeEditor.cs
+END
+UIImageButtonInspector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UIImageButtonInspector.cs
+END
+UIButtonColorEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UIButtonColorEditor.cs.meta
+END
+TweenFOVEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/TweenFOVEditor.cs
+END
+UIInputEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UIInputEditor.cs
+END
+UIButtonEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UIButtonEditor.cs.meta
+END
+UIAtlasMaker.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UIAtlasMaker.cs.meta
+END
+ActiveAnimationEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/ActiveAnimationEditor.cs.meta
+END
+BMFontReader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/BMFontReader.cs
+END
+UITexturePacker.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UITexturePacker.cs.meta
+END
+TweenTransformEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/TweenTransformEditor.cs.meta
+END
+UITextureInspector.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Editor/UITextureInspector.cs.meta
+END

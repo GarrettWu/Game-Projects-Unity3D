@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Examples/Scripts/InventorySystem/Game
+END
+UICursor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UICursor.cs
+END
+UIEquipmentSlot.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIEquipmentSlot.cs.meta
+END
+UIItemSlot.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs
+END
+UICursor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UICursor.cs.meta
+END
+UIItemStorage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemStorage.cs
+END
+EquipRandomItem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Examples/Scripts/InventorySystem/Game/EquipRandomItem.cs
+END
+UIItemSlot.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs.meta
+END
+UIStorageSlot.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIStorageSlot.cs
+END
+EquipItems.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Examples/Scripts/InventorySystem/Game/EquipItems.cs
+END
+UIItemStorage.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemStorage.cs.meta
+END
+UIEquipmentSlot.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIEquipmentSlot.cs
+END
+EquipRandomItem.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Examples/Scripts/InventorySystem/Game/EquipRandomItem.cs.meta
+END
+UIStorageSlot.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIStorageSlot.cs.meta
+END
+EquipItems.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Examples/Scripts/InventorySystem/Game/EquipItems.cs.meta
+END

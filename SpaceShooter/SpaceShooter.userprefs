@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Tests/INP5.5/Assets/Plugins/AdMobCombo/demo/AdMobComboUI.cs">
+    <Files>
+      <File FileName="../../Tests/INP5.5/Assets/Plugins/AdMobCombo/demo/AdMobComboUI.cs" Line="49" Column="6" />
+      <File FileName="../../Tests/INP5.5/Assets/Plugins/AdMobCombo/AdMob.cs" Line="152" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

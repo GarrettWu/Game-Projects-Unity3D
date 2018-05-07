@@ -1,0 +1,57 @@
+K 26
+svn:wc:ra_dav:activity-url
+V 25
+/svn/mineescape/!svn/act/
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/mineescape/!svn/ver/14/trunk/Assets/_scripts/player
+END
+KillerAnim.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/mineescape/!svn/ver/11/trunk/Assets/_scripts/player/KillerAnim.cs.meta
+END
+LarryTrigger.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/mineescape/!svn/ver/1/trunk/Assets/_scripts/player/LarryTrigger.cs
+END
+MagnetTrigger.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/mineescape/!svn/ver/1/trunk/Assets/_scripts/player/MagnetTrigger.cs
+END
+PlayerController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/mineescape/!svn/ver/12/trunk/Assets/_scripts/player/PlayerController.cs
+END
+LarryTrigger.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/mineescape/!svn/ver/14/trunk/Assets/_scripts/player/LarryTrigger.cs.meta
+END
+MagnetTrigger.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/mineescape/!svn/ver/14/trunk/Assets/_scripts/player/MagnetTrigger.cs.meta
+END
+PlayerController.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mineescape/!svn/ver/14/trunk/Assets/_scripts/player/PlayerController.cs.meta
+END
+KillerAnim.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/mineescape/!svn/ver/11/trunk/Assets/_scripts/player/KillerAnim.cs
+END

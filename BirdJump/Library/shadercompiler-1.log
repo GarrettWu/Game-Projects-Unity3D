@@ -1,0 +1,49 @@
+Base path: /Applications/Unity/Unity.app/Contents
+Pipe name: \\.\pipe\UnityShaderCompiler-1--1606934060
+Cmd: getPlatforms
+Cmd: preprocess
+  insize=219 outsize=219 ok=1
+Cmd: preprocess
+  insize=2367 outsize=899 ok=1
+Cmd: preprocess
+  insize=1571 outsize=492 ok=1
+Cmd: preprocess
+  insize=2355 outsize=505 ok=1
+Cmd: preprocess
+  insize=1989 outsize=503 ok=1
+Cmd: preprocess
+  insize=480 outsize=480 ok=1
+Cmd: preprocess
+  insize=2810 outsize=895 ok=1
+Cmd: preprocess
+  insize=2443 outsize=893 ok=1
+Cmd: preprocess
+  insize=1452 outsize=830 ok=1
+Cmd: preprocess
+  insize=2734 outsize=900 ok=1
+Cmd: preprocess
+  insize=1920 outsize=893 ok=1
+Cmd: preprocess
+  insize=1453 outsize=503 ok=1
+Cmd: preprocess
+  insize=3042 outsize=1804 ok=1
+Cmd: preprocess
+  insize=1834 outsize=899 ok=1
+Cmd: preprocess
+  insize=2474 outsize=494 ok=1
+Cmd: preprocess
+  insize=435 outsize=435 ok=1
+Cmd: preprocess
+  insize=1458 outsize=859 ok=1
+Cmd: preprocess
+  insize=5978 outsize=3432 ok=1
+Cmd: preprocess
+  insize=1524 outsize=883 ok=1
+Cmd: preprocess
+  insize=2361 outsize=2258 ok=1
+Cmd: preprocess
+  insize=1232 outsize=483 ok=1
+Cmd: preprocess
+  insize=2107 outsize=493 ok=1
+Cmd: preprocess
+  insize=1668 outsize=929 ok=1

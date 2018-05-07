@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: a2a1816274b162f488d00cd3418bc3f7
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: back1
+    100002: back2
+    100004: back3
+    100006: back4
+    100008: body1
+    100010: cluster_abs
+    100012: cluster_chest
+    100014: cluster_hip
+    100016: cluster_neck
+    100018: curve3
+    100020: eye
+    100022: group318
+    100024: group319
+    100026: group320
+    100028: group321
+    100030: guge
+    100032: head
+    100034: head 1
+    100036: head 2
+    100038: hero
+    100040: hip
+    100042: l_ankle
+    100044: l_ball
+    100046: l_cla
+    100048: l_eblow
+    100050: l_end1
+    100052: l_end2
+    100054: l_end3
+    100056: l_end4
+    100058: l_fc
+    100060: l_hip
+    100062: l_knee
+    100064: l_shouder
+    100066: l_toe
+    100068: l_wirst
+    100070: l_wirst1
+    100072: l_wirst2
+    100074: l_wirst3
+    100076: l_wirst4
+    100078: left_eye
+    100080: neck
+    100082: r_ankre
+    100084: r_barr
+    100086: r_cra
+    100088: r_ebrow
+    100090: r_end1
+    100092: r_end2
+    100094: r_end3
+    100096: r_end4
+    100098: r_fc
+    100100: r_hip
+    100102: r_knee
+    100104: r_shouder
+    100106: r_thm1
+    100108: r_thm2
+    100110: r_thm3
+    100112: r_thm4
+    100114: r_toe
+    100116: r_wirst
+    100118: right_eye
+    100120: root
+    100122: //RootNode
+    100124: top
+    400000: back1
+    400002: back2
+    400004: back3
+    400006: back4
+    400008: body1
+    400010: cluster_abs
+    400012: cluster_chest
+    400014: cluster_hip
+    400016: cluster_neck
+    400018: curve3
+    400020: eye
+    400022: group318
+    400024: group319
+    400026: group320
+    400028: group321
+    400030: guge
+    400032: head
+    400034: head 1
+    400036: head 2
+    400038: hero
+    400040: hip
+    400042: l_ankle
+    400044: l_ball
+    400046: l_cla
+    400048: l_eblow
+    400050: l_end1
+    400052: l_end2
+    400054: l_end3
+    400056: l_end4
+    400058: l_fc
+    400060: l_hip
+    400062: l_knee
+    400064: l_shouder
+    400066: l_toe
+    400068: l_wirst
+    400070: l_wirst1
+    400072: l_wirst2
+    400074: l_wirst3
+    400076: l_wirst4
+    400078: left_eye
+    400080: neck
+    400082: r_ankre
+    400084: r_barr
+    400086: r_cra
+    400088: r_ebrow
+    400090: r_end1
+    400092: r_end2
+    400094: r_end3
+    400096: r_end4
+    400098: r_fc
+    400100: r_hip
+    400102: r_knee
+    400104: r_shouder
+    400106: r_thm1
+    400108: r_thm2
+    400110: r_thm3
+    400112: r_thm4
+    400114: r_toe
+    400116: r_wirst
+    400118: right_eye
+    400120: root
+    400122: //RootNode
+    400124: top
+    4300000: head
+    4300002: right_eye
+    4300004: left_eye
+    4300006: body1
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: body1
+    13700002: head 1
+    13700004: left_eye
+    13700006: right_eye
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 2
+  userData: 

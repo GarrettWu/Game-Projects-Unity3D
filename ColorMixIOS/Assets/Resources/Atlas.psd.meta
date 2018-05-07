@@ -1,0 +1,132 @@
+fileFormatVersion: 2
+guid: 6000d9562f08a4ebcab970d2c118eda6
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Background
+    21300002: Ball
+    21300004: Yellow
+    21300006: Blue
+    21300008: Orange
+    21300010: Green
+    21300012: Purple
+    21300014: Black
+    21300016: White
+    21300018: Triangle
+    21300020: ButtonGo
+    21300022: ButtonLadder
+    21300024: Title
+    21300026: Color
+    21300028: ButtonTutorial
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Background
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 384
+        height: 512
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Color
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 856
+        width: 140
+        height: 136
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Triangle
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 844
+        width: 136
+        height: 160
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ButtonLadder
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 336
+        width: 137
+        height: 137
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ButtonGo
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 340
+        width: 136
+        height: 140
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Title
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 608
+        width: 501
+        height: 201
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ButtonTutorial
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 341
+        width: 136
+        height: 136
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

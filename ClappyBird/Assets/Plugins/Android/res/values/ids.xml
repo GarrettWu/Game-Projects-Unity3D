@@ -1,0 +1,13 @@
+<resources>
+    <!-- TODO: Replace this by your app's app ID! -->
+    <string name="app_id">172574401717</string>
+
+    <!-- TODO: Replace these by your achievement/leaderboard IDs! -->
+    
+    <string name="leaderboard">CgkItcnx8YIFEAIQBg</string>
+    
+    
+    <string name="achievement_prime">ReplaceMe</string>
+    <string name="achievement_humble">ReplaceMe</string>
+    <string name="achievement_bored">ReplaceMe</string>
+</resources>

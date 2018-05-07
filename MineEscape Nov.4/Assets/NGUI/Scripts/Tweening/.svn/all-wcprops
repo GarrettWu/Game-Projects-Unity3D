@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Tweening
+END
+TweenHeight.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Tweening/TweenHeight.cs
+END
+SpringPosition.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Tweening/SpringPosition.cs.meta
+END
+TweenAlpha.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Tweening/TweenAlpha.cs.meta
+END
+AnimatedAlpha.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Tweening/AnimatedAlpha.cs.meta
+END
+TweenOrthoSize.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Tweening/TweenOrthoSize.cs.meta
+END
+TweenTransform.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Tweening/TweenTransform.cs
+END
+TweenScale.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Tweening/TweenScale.cs.meta
+END
+TweenColor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Tweening/TweenColor.cs
+END
+AnimatedColor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Tweening/AnimatedColor.cs
+END
+TweenFOV.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Tweening/TweenFOV.cs.meta
+END
+TweenWidth.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Tweening/TweenWidth.cs
+END
+SpringPosition.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Tweening/SpringPosition.cs
+END
+TweenRotation.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Tweening/TweenRotation.cs.meta
+END
+TweenAlpha.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Tweening/TweenAlpha.cs
+END
+AnimatedAlpha.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Tweening/AnimatedAlpha.cs
+END
+TweenOrthoSize.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Tweening/TweenOrthoSize.cs
+END
+TweenScale.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Tweening/TweenScale.cs
+END
+TweenPosition.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Tweening/TweenPosition.cs.meta
+END
+UITweener.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Tweening/UITweener.cs.meta
+END
+TweenFOV.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Tweening/TweenFOV.cs
+END
+TweenVolume.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Tweening/TweenVolume.cs.meta
+END
+TweenHeight.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Tweening/TweenHeight.cs.meta
+END
+TweenRotation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Tweening/TweenRotation.cs
+END
+TweenTransform.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Tweening/TweenTransform.cs.meta
+END
+TweenColor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Tweening/TweenColor.cs.meta
+END
+AnimatedColor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Tweening/AnimatedColor.cs.meta
+END
+TweenPosition.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Tweening/TweenPosition.cs
+END
+TweenWidth.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Tweening/TweenWidth.cs.meta
+END
+UITweener.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Tweening/UITweener.cs
+END
+TweenVolume.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Tweening/TweenVolume.cs
+END

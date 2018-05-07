@@ -1,0 +1,660 @@
+fileFormatVersion: 2
+guid: b49e951a730d34c8fbd15721750f7156
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: atlas
+    21300002: background_0
+    21300004: background_1
+    21300006: clouds_2
+    21300008: backTrees
+    21300010: board
+    21300012: atlas_5
+    21300014: atlas_6
+    21300016: atlas_7
+    21300018: atlas_8
+    21300020: getReady
+    21300022: atlas_10
+    21300024: atlas_11
+    21300026: player_4
+    21300028: atlas_13
+    21300030: atlas_14
+    21300032: clouds_1
+    21300034: ground
+    21300036: title_2
+    21300038: play_1
+    21300040: atlas_19
+    21300042: atlas_20
+    21300044: title_1
+    21300046: atlas_22
+    21300048: atlas_23
+    21300050: atlas_24
+    21300052: title_3
+    21300054: play_0
+    21300056: atlas_27
+    21300058: atlas_28
+    21300060: player_2
+    21300062: back
+    21300064: tap
+    21300066: player_3
+    21300068: player_5
+    21300070: atlas_34
+    21300072: atlas_35
+    21300074: ladder
+    21300076: atlas_37
+    21300078: rate
+    21300080: atlas_39
+    21300082: black
+    21300084: white
+    21300086: atlas_42
+    21300088: atlas_43
+    21300090: atlas_44
+    21300092: blade_0
+    21300094: blade_1
+    21300096: atlas_47
+    21300098: background_2
+    21300100: title_0
+    21300102: pipe
+    21300104: frame
+    21300106: medal_copper
+    21300108: atlas_53
+    21300110: atlas_54
+    21300112: atlas_55
+    21300114: atlas_56
+    21300116: atlas_57
+    21300118: atlas_58
+    21300120: propeller_1
+    21300122: propeller_2
+    21300124: propeller_3
+    21300126: propellerPacked_2
+    21300128: atlas_63
+    21300130: atlas_64
+    21300132: atlas_65
+    21300134: atlas_66
+    21300136: propeller_4
+    21300138: propellerPacked_1
+    21300140: removeAds
+    21300142: propeller_0
+    21300144: atlas_71
+    21300146: player_1
+    21300148: atlas_73
+    21300150: atlas_74
+    21300152: atlas_75
+    21300154: atlas_76
+    21300156: atlas_77
+    21300158: atlas_78
+    21300160: atlas_79
+    21300162: atlas_80
+    21300164: atlas_81
+    21300166: atlas_82
+    21300168: atlas_83
+    21300170: atlas_84
+    21300172: atlas_85
+    21300174: atlas_86
+    21300176: atlas_87
+    21300178: atlas_88
+    21300180: atlas_89
+    21300182: atlas_90
+    21300184: atlas_91
+    21300186: clouds_0
+    21300188: atlas_93
+    21300190: atlas_94
+    21300192: atlas_95
+    21300194: atlas_96
+    21300196: atlas_97
+    21300198: atlas_98
+    21300200: atlas_99
+    21300202: atlas_100
+    21300204: atlas_101
+    21300206: hammer
+    21300208: atlas_103
+    21300210: atlas_104
+    21300212: atlas_105
+    21300214: medal_platinum
+    21300216: atlas_107
+    21300218: atlas_108
+    21300220: atlas_109
+    21300222: atlas_110
+    21300224: atlas_111
+    21300226: medal_gold
+    21300228: atlas_113
+    21300230: atlas_114
+    21300232: atlas_115
+    21300234: atlas_116
+    21300236: atlas_117
+    21300238: atlas_118
+    21300240: atlas_119
+    21300242: atlas_120
+    21300244: medal_silver
+    21300246: atlas_122
+    21300248: atlas_123
+    21300250: atlas_124
+    21300252: atlas_125
+    21300254: gameover
+    21300256: atlas_127
+    21300258: atlas_128
+    21300260: atlas_129
+    21300262: atlas_130
+    21300264: atlas_131
+    21300266: atlas_132
+    21300268: atlas_133
+    21300270: new
+    21300272: atlas_135
+    21300274: atlas_136
+    21300276: player_0
+    21300278: atlas_138
+    21300280: atlas_139
+    21300282: atlas_140
+    21300284: propellerPacked_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: background_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 432
+        height: 768
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: background_1
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1280
+        width: 432
+        height: 768
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: clouds_2
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1763
+        width: 336
+        height: 285
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: backTrees
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 1754
+        width: 432
+        height: 285
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: board
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 1859
+        width: 357
+        height: 189
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: getReady
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 1783
+        width: 267
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player_4
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 1771
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: clouds_1
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1381
+        width: 336
+        height: 285
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ground
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 1528
+        width: 432
+        height: 222
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: title_2
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 1570
+        width: 225
+        height: 180
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: play_1
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 1654
+        width: 162
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: title_1
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 1344
+        width: 225
+        height: 180
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: title_3
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 1386
+        width: 225
+        height: 180
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: play_0
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 1470
+        width: 162
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player_2
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 1440
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: back
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 1388
+        width: 69
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tap
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 1308
+        width: 102
+        height: 215
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player_3
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 1340
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player_5
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 1382
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ladder
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 1286
+        width: 162
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rate
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 1303
+        width: 99
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: black
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 1292
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: white
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 1292
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: background_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 508
+        width: 432
+        height: 768
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: title_0
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1096
+        width: 225
+        height: 180
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipe
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1198
+        width: 234
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frame
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1243
+        width: 408
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medal_copper
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 1201
+        width: 72
+        height: 75
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: propeller_1
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 1161
+        width: 48
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: propeller_2
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 1161
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: propeller_3
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 1161
+        width: 48
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: propellerPacked_2
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 1134
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: propellerPacked_0
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 1113
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: propellerPacked_1
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 1125
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: removeAds
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1029
+        width: 180
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player_1
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 941
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: clouds_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 219
+        width: 336
+        height: 285
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hammer
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 378
+        width: 63
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medal_platinum
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 299
+        width: 72
+        height: 75
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medal_gold
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 220
+        width: 72
+        height: 75
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medal_silver
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 141
+        width: 72
+        height: 75
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gameover
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 288
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: new
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 25
+        width: 48
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player_0
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 38
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: propeller_0
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1161
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blade_0
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 347
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blade_1
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 319
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

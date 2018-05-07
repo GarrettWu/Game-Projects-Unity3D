@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Internal
+END
+ActiveAnimation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Internal/ActiveAnimation.cs
+END
+ByteReader.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Internal/ByteReader.cs.meta
+END
+NGUIMath.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Internal/NGUIMath.cs
+END
+EventDelegate.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Internal/EventDelegate.cs
+END
+Localization.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Internal/Localization.cs.meta
+END
+UIGeometry.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Internal/UIGeometry.cs.meta
+END
+UIWidget.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Internal/UIWidget.cs
+END
+NGUITools.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Internal/NGUITools.cs
+END
+AnimationOrTween.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Internal/AnimationOrTween.cs
+END
+UIEventListener.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Internal/UIEventListener.cs
+END
+BMFont.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Internal/BMFont.cs
+END
+BMGlyph.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Internal/BMGlyph.cs.meta
+END
+UIGeometry.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Internal/UIGeometry.cs
+END
+NGUIMath.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Internal/NGUIMath.cs.meta
+END
+EventDelegate.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Internal/EventDelegate.cs.meta
+END
+RealTime.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Internal/RealTime.cs
+END
+BetterList.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Internal/BetterList.cs.meta
+END
+UIDrawCall.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Internal/UIDrawCall.cs.meta
+END
+BetterList.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Internal/BetterList.cs
+END
+SpringPanel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Internal/SpringPanel.cs
+END
+BMSymbol.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Internal/BMSymbol.cs
+END
+ByteReader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Internal/ByteReader.cs
+END
+UIDrawCall.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Internal/UIDrawCall.cs
+END
+RealTime.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Internal/RealTime.cs.meta
+END
+Localization.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Internal/Localization.cs
+END
+NGUIDebug.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Internal/NGUIDebug.cs.meta
+END
+ActiveAnimation.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Internal/ActiveAnimation.cs.meta
+END
+BMGlyph.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Internal/BMGlyph.cs
+END
+UIWidget.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Internal/UIWidget.cs.meta
+END
+SpringPanel.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Internal/SpringPanel.cs.meta
+END
+NGUITools.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Internal/NGUITools.cs.meta
+END
+AnimationOrTween.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Internal/AnimationOrTween.cs.meta
+END
+NGUIDebug.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Internal/NGUIDebug.cs
+END
+BMSymbol.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Internal/BMSymbol.cs.meta
+END
+BMFont.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Internal/BMFont.cs.meta
+END
+UIEventListener.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Scripts/Internal/UIEventListener.cs.meta
+END

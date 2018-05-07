@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Examples/Scripts/InventorySystem/System
+END
+InvBaseItem.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvBaseItem.cs.meta
+END
+InvStat.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvStat.cs.meta
+END
+InvAttachmentPoint.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvAttachmentPoint.cs
+END
+InvDatabase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvDatabase.cs
+END
+InvAttachmentPoint.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvAttachmentPoint.cs.meta
+END
+InvEquipment.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvEquipment.cs
+END
+InvGameItem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs
+END
+InvBaseItem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvBaseItem.cs
+END
+InvDatabase.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvDatabase.cs.meta
+END
+InvStat.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvStat.cs
+END
+InvEquipment.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvEquipment.cs.meta
+END
+InvGameItem.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/mineescape/!svn/ver/13/trunk/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs.meta
+END

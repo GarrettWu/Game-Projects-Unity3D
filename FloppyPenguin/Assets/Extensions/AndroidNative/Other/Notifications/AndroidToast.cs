@@ -1,0 +1,48 @@
+////////////////////////////////////////////////////////////////////////////////
+//  
+// @module <module_name>
+// @author Osipov Stanislav lacost.st@gmail.com
+//
+////////////////////////////////////////////////////////////////////////////////
+
+using UnityEngine;
+using System.Collections;
+
+public class AndroidToast  {
+
+	public const int LENGTH_SHORT = 0; // 2 seconds 
+	public const int LENGTH_LONG  = 1; // 3.5 seconds
+
+	//--------------------------------------
+	// INITIALIZE
+	//--------------------------------------
+
+	//--------------------------------------
+	//  PUBLIC METHODS
+	//--------------------------------------
+
+	public static void ShowToastNotification(string text) {
+		ShowToastNotification (text, LENGTH_SHORT);
+	}
+
+	public static void ShowToastNotification(string text, int duration) {
+		AndroidNative.ShowToastNotification (text, duration);
+	}
+	
+	//--------------------------------------
+	//  GET/SET
+	//--------------------------------------
+	
+	//--------------------------------------
+	//  EVENTS
+	//--------------------------------------
+	
+	//--------------------------------------
+	//  PRIVATE METHODS
+	//--------------------------------------
+	
+	//--------------------------------------
+	//  DESTROY
+	//--------------------------------------
+
+}

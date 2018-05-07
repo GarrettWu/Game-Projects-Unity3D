@@ -1,0 +1,258 @@
+fileFormatVersion: 2
+guid: 57091f69eb5cc47daac57524f6a0b46a
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Player
+    21300002: Enemy
+    21300004: Bullet
+    21300006: Background
+    21300008: Power
+    21300010: Enemy0
+    21300012: Charge
+    21300014: Enemy1
+    21300016: Enemy2
+    21300018: Tail
+    21300020: Explosion_0
+    21300022: Explosion_1
+    21300024: Expolsion_2
+    21300026: Button
+    21300028: Title
+    21300030: StarSmall
+    21300032: StarLarge
+    21300034: Planet0
+    21300036: Planet1
+    21300038: Tap
+    21300040: Release
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Player
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1995
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy0
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1994
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bullet
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 2020
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Charge
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 2015
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Background
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 768
+        width: 967
+        height: 1280
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1933
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1934
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tail
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1938
+        width: 19
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Explosion_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1864
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Explosion_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1849
+        width: 81
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Expolsion_2
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1834
+        width: 95
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1750
+        width: 287
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Title
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1684
+        width: 646
+        height: 202
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StarSmall
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2032
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StarLarge
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1928
+        width: 113
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Planet0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1316
+        width: 291
+        height: 291
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Planet1
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1308
+        width: 296
+        height: 296
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tap
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1091
+        width: 166
+        height: 197
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Release
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1092
+        width: 215
+        height: 204
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

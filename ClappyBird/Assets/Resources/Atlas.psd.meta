@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: c73bec276925a4c4796cb16314f1f3e3
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Background
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 288
+        height: 512
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Ground
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 874
+        width: 440
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Button_Go
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 792
+        width: 104
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Button_Ladder
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 792
+        width: 104
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Board
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 644
+        width: 230
+        height: 138
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Pipe_Up
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 61
+        width: 52
+        height: 320
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Pipe_Down
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 61
+        width: 52
+        height: 320
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Medal_Platinum
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 326
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Medal_Gold
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 278
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Medal_Silver
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 229
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Medal_Copper
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 181
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Atlas_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 146
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Bird_1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 18
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Bird_0
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 18
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Bird_2
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 18
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Tap
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 275
+        width: 114
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 
